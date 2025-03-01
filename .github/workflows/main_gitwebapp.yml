@@ -53,4 +53,4 @@ jobs:
           app-name: 'gitwebapp'
           slot-name: 'Production'
           package: '*.jar'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B4A7A37FFB114F42A3F1CBF6FF991BF4 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6A9ED26A17854B4BAAEAD5B784BE3E5E }}
